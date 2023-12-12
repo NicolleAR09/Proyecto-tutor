@@ -4,7 +4,7 @@ from pygame import mixer #agregar sonidos
 import random
 import math
 from boton import Boton
-import threading
+
 
 #Inicializar pygame 
 pygame.init()
